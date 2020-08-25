@@ -6,7 +6,8 @@
 
 img{
     margin: 10px;
-    width: 200px;
+    margin-top: 30px;
+    width: 160px;
 }
 
 .user-name{
@@ -18,7 +19,8 @@ img{
     color: #fff;
     font-size: 16px;
     width: 128px;
-    height: 33px;
+    height: 30px;
+    margin-bottom: 10px;
     border: 1px solid transparent;
     border-radius: 10px;
     cursor: pointer;
